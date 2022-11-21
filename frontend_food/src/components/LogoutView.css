@@ -1,0 +1,14 @@
+.button_style {
+    background: transparent;
+    color: white;
+}
+
+.button_style:hover {
+    background-color: #fff;
+    color: #192a56;
+}
+
+.icon {
+    background: transparent;
+    color: white;
+}

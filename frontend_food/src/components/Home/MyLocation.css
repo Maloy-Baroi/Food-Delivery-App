@@ -1,0 +1,21 @@
+.margin {
+    height: 1200vh;
+    padding-top: 120px;
+    background-color: #eee !important;
+}
+
+input {
+    margin: 15px auto;
+    text-transform: none;
+    background-color: #eee !important;
+}
+
+.btn-power {
+    background-color: #27ae60;
+    color: #fff;
+}
+
+.btn-power:hover {
+    background-color: #1e914e;
+    color: rgb(235, 235, 235);
+}

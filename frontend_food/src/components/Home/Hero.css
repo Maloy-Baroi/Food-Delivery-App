@@ -1,0 +1,94 @@
+.width-75 {
+  width: 75% !important;
+}
+
+.content h3 {
+  color: #192a56;
+  font-size: 7rem;
+  font-weight: 600;
+}
+
+.btn-order {
+  background-color: #27ae60;
+  color: #fff;
+}
+
+@media screen and (max-width: 320px) {
+  .width-75 {
+    width: 75% !important;
+  }
+
+  .content span {
+    font-size: 0.9rem;
+  }
+
+  .content h3 {
+    color: #2749a0;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  .content p {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .width-75 {
+    width: 75% !important;
+  }
+
+  .content span {
+    font-size: 0.9rem;
+  }
+
+  .content h3 {
+    color: #2749a0;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  .content p {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .width-75 {
+    width: 60% !important;
+  }
+
+  .content span {
+    font-size: 0.9rem;
+  }
+
+  .content h3 {
+    color: #2749a0;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  .content p {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .width-75 {
+    width: 50% !important;
+  }
+
+  .content span {
+    font-size: 0.9rem;
+  }
+
+  .content h3 {
+    color: #2749a0;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  .content p {
+    font-size: 1rem;
+  }
+}
